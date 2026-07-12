@@ -13,7 +13,7 @@
 > QR-based automated attendance system for colleges with real-time analytics
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-2551eb?style=for-the-badge&logo=vercel)](https://smart-attendance-dusky.vercel.app/shared/login.html)
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/anitha2007-22/smart-attendance-system)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/anitha2007-22/smart-attendance)
 
 **Key Features:**
 - 🔐 Rotating QR codes (expire every 20 seconds) for fraud-proof attendance
